@@ -57,8 +57,4 @@ Total number of columns: 32
 7. Frow above we see that the majority of the distribution channels and market segments involve travel agencies (online or offline). We can target our marketing area to be on these travel agencies website and work with them since majority of the visitors tend to reach out to them.
 8. The highest number of visitors are from Europe namely Portugal(PRT),United kingdom(GBR),France(FRA) and Spain(ESP).
 
-# Hotel Booking Analysis Dashboard
 
-https://public.tableau.com/views/HotelBookingAnalysis_16901491256210/HotelBooking1?:language=en-US&:display_count=n&:origin=viz_share_link
-
-![tableau dashboard](https://github.com/Gaurav-Yaduvanshi/Hotel-Booking-Analysis/assets/99022806/6801d468-63c4-4a7f-95f7-a9c9ecab210e)
